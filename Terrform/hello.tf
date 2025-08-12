@@ -1,1 +1,3 @@
-hello
+resource "" "name" {
+  
+}
